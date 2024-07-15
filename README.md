@@ -1,2 +1,2 @@
 # rules
-自用规则
+adguardhome自用规则
